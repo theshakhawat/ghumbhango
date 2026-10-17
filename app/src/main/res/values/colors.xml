@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navy_background">#FF081226</color>
+    <color name="navy_surface">#FF0E1E3D</color>
+    <color name="royal_blue">#FF2563EB</color>
+    <color name="amber_accent">#FFF59E0B</color>
+</resources>

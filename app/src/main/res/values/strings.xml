@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">GhumBhango</string>
+    <string name="app_name_bengali">ঘুম ভাঙ্গো</string>
+    <string name="app_name_english">GhumBhango</string>
+    <string name="app_tagline">Sleep peacefully, never miss your stop!</string>
+    <string name="app_subtitle_badge">Smart Travel Alarm</string>
+    <string name="splash_loading">Preparing your journey…</string>
+
+    <!-- Home Screen -->
+    <string name="home_hero_greeting">Travel Worry-Free</string>
+    <string name="destination_card_title">Select Destination</string>
+    <string name="destination_search_placeholder">Where to? Search bus stop or place…</string>
+    <string name="destination_pick_map">Pick Location from Map</string>
+    <string name="destination_selected_label">Selected Destination</string>
+    <string name="destination_change_btn">Change</string>
+    <string name="destination_clear_btn">Clear</string>
+    
+    <!-- Alarm Distance -->
+    <string name="alarm_distance_title">Alarm Distance</string>
+    <string name="alarm_distance_subtitle">How far before your destination should the alarm ring?</string>
+    <string name="alarm_distance_default_badge">Default</string>
+    
+    <!-- Popular / Quick Pick Stops -->
+    <string name="quick_stops_title">Quick Selection (Popular Stops)</string>
+    
+    <!-- Journey Actions -->
+    <string name="start_journey_btn">Start Journey</string>
+    <string name="start_journey_hint_disabled">Please select a destination first to start your journey</string>
+    <string name="gps_ready_status">GPS Active</string>
+
+    <!-- Destination Search & Selection -->
+    <string name="search_sheet_title">Search Destination</string>
+    <string name="search_input_hint">Bus stop, station or area name…</string>
+    <string name="search_online_btn">Search Online</string>
+    <string name="searching_online">Searching place online…</string>
+    <string name="saved_stops_header">Saved &amp; Known Stops</string>
+    <string name="search_results_header">Search Results</string>
+    <string name="no_results_found">No results found</string>
+    <string name="add_custom_destination_btn">+ Add New Destination</string>
+    <string name="save_dialog_title">Save Destination</string>
+    <string name="save_dialog_name_hint">Place name (e.g., Home, Office)</string>
+    <string name="save_dialog_lat_hint">Latitude (e.g., 23.7570)</string>
+    <string name="save_dialog_lng_hint">Longitude (e.g., 90.3894)</string>
+    <string name="save_dialog_address_hint">Address or description (optional)</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="save_btn">Save</string>
+    <string name="invalid_coords_error">Please enter valid numeric coordinates</string>
+
+    <!-- TalkBack & Accessibility Descriptions -->
+    <string name="cd_app_settings">Open app settings</string>
+    <string name="cd_journey_history">View journey history and route presets</string>
+    <string name="cd_readiness_status">GPS and battery optimization readiness status</string>
+    <string name="cd_navigate_back">Go back to previous screen</string>
+    <string name="cd_pick_from_map">Open map view to select location</string>
+    <string name="cd_clear_selected_destination">Clear selected destination</string>
+    <string name="cd_pause_journey">Pause ongoing journey</string>
+    <string name="cd_resume_journey">Resume tracking journey</string>
+    <string name="cd_stop_journey">End journey tracking</string>
+    <string name="cd_dismiss_alarm">Dismiss destination alarm</string>
+    <string name="cd_snooze_alarm">Snooze alarm for 2 minutes</string>
+    <string name="cd_delete_history_item">Delete this journey record</string>
+    <string name="cd_clear_all_history">Clear all journey history</string>
+    <string name="cd_add_route_preset">Create new route preset</string>
+    <string name="cd_start_preset_journey">Start journey on this preset route immediately</string>
+
+    <!-- TalkBack Live Region Accessibility Announcements -->
+    <string name="a11y_alarm_approaching_announcement">Alert! You are approaching your destination. Get ready!</string>
+    <string name="a11y_gps_ready_announcement">GPS connection active and accurate.</string>
+    <string name="a11y_gps_disabled_announcement">GPS disabled. Please turn on device location.</string>
+    <string name="a11y_journey_started_announcement">Journey started. Alarm will ring when approaching destination.</string>
+    <string name="a11y_journey_stopped_announcement">Journey stopped.</string>
+
+    <!-- Distance Units for Screen Readers -->
+    <string name="unit_meter">meters</string>
+    <string name="unit_kilometer">kilometers</string>
+    <string name="unit_minute">minutes</string>
+
+    <!-- Onboarding Sliders -->
+    <string name="onboarding_title_1">Track Location in Real-Time</string>
+    <string name="onboarding_desc_1">Your live location is continuously tracked via GPS so you never miss your transit stop.</string>
+    <string name="onboarding_title_2">Set Location &amp; Sleep Peacefully</string>
+    <string name="onboarding_desc_2">Set your stop and alarm radius on the map, then relax and take a worry-free nap.</string>
+    <string name="onboarding_title_3">Wake Up on Time</string>
+    <string name="onboarding_desc_3">A loud alarm and strong vibration will wake you up right as you enter the destination radius.</string>
+
+    <!-- Permissions Flow -->
+    <string name="perm_screen_title_1">To use the app</string>
+    <string name="perm_screen_title_2">properly</string>
+    <string name="perm_screen_title_highlight">Few permissions needed</string>
+    <string name="perm_screen_subtitle">The following permissions are required for safety and accurate alarm tracking.</string>
+    <string name="perm_item_location_title">Location (GPS)</string>
+    <string name="perm_item_location_desc">To detect live transit location accurately</string>
+    <string name="perm_item_notification_title">Notifications</string>
+    <string name="perm_item_notification_desc">Journey progress &amp; upcoming stop alerts</string>
+    <string name="perm_item_battery_title">Background &amp; Battery</string>
+    <string name="perm_item_battery_desc">To track location even when the screen is locked</string>
+    <string name="perm_item_sound_title">Alarm Sound</string>
+    <string name="perm_item_sound_desc">Test alarm sound and audible volume</string>
+    <string name="perm_status_required">Required</string>
+    <string name="perm_status_granted">Granted ✓</string>
+    <string name="perm_status_battery_check">Check Settings</string>
+    <string name="perm_status_test_sound">Test Sound</string>
+    <string name="perm_status_sound_playing">Sound playing…</string>
+    <string name="perm_btn_verify_all">Verify All Settings</string>
+
+    <!-- New Home Design Strings -->
+    <string name="home_hero_title">Start New Journey</string>
+    <string name="home_hero_subtitle">Select your destination\nand sleep worry-free</string>
+    <string name="home_search_btn">Search Destination</string>
+    <string name="home_quick_stops_title">Quick Destinations</string>
+    <string name="home_see_all">See All</string>
+    <string name="home_tab_home">Home</string>
+    <string name="home_tab_saved">Saved</string>
+    <string name="home_tab_history">History</string>
+    <string name="home_tab_settings">Settings</string>
+</resources>

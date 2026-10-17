@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">ঘুম ভাঙ্গো</string>
+    <string name="app_name_bengali">ঘুম ভাঙ্গো</string>
+    <string name="app_name_english">GhumBhango</string>
+    <string name="app_tagline">ঘুম আসুক, স্টপ মিস নয়!</string>
+    <string name="app_subtitle_badge">স্মার্ট ট্রাভেল অ্যালার্ম</string>
+    <string name="splash_loading">যাত্রা প্রস্তুতি চলছে…</string>
+
+    <!-- Home Screen -->
+    <string name="home_hero_greeting">যাত্রায় নির্ভার থাকুন</string>
+    <string name="destination_card_title">গন্তব্য নির্বাচন করুন</string>
+    <string name="destination_search_placeholder">কোথায় নামবেন? বাসস্টপ বা গন্তব্য খুঁজুন…</string>
+    <string name="destination_pick_map">ম্যাপ থেকে স্থান নির্বাচন</string>
+    <string name="destination_selected_label">নির্বাচিত গন্তব্য</string>
+    <string name="destination_change_btn">পরিবর্তন</string>
+    <string name="destination_clear_btn">মুছুন</string>
+    
+    <!-- Alarm Distance -->
+    <string name="alarm_distance_title">অ্যালার্মের দূরত্ব</string>
+    <string name="alarm_distance_subtitle">গন্তব্যের কত দূরে পৌঁছালে আপনাকে জাগিয়ে দেওয়া হবে?</string>
+    <string name="alarm_distance_default_badge">ডিফল্ট</string>
+    
+    <!-- Popular / Quick Pick Stops -->
+    <string name="quick_stops_title">দ্রুত নির্বাচন (জনপ্রিয় স্টপেজ)</string>
+    
+    <!-- Journey Actions -->
+    <string name="start_journey_btn">যাত্রা শুরু করুন</string>
+    <string name="start_journey_hint_disabled">যাত্রা শুরু করতে প্রথমে একটি গন্তব্য নির্বাচন করুন</string>
+    <string name="gps_ready_status">জিপিএস সক্রিয়</string>
+
+    <!-- Destination Search & Selection -->
+    <string name="search_sheet_title">গন্তব্য অনুসন্ধান</string>
+    <string name="search_input_hint">বাসস্টপ, স্টেশন বা এলাকার নাম…</string>
+    <string name="search_online_btn">অনলাইনে খুঁজুন</string>
+    <string name="searching_online">অনলাইনে স্থান খোঁজা হচ্ছে…</string>
+    <string name="saved_stops_header">সংরক্ষিত ও পরিচিত স্টপেজ</string>
+    <string name="search_results_header">অনুসন্ধানের ফলাফল</string>
+    <string name="no_results_found">কোনো ফলাফল পাওয়া যায়নি</string>
+    <string name="add_custom_destination_btn">+ নতুন গন্তব্য যোগ করুন</string>
+    <string name="save_dialog_title">নতুন গন্তব্য সংরক্ষণ</string>
+    <string name="save_dialog_name_hint">স্থানের নাম (যেমন: আমার বাড়ি, অফিস)</string>
+    <string name="save_dialog_lat_hint">অক্ষাংশ / Latitude (যেমন: 23.7570)</string>
+    <string name="save_dialog_lng_hint">দ্রাঘিমাংশ / Longitude (যেমন: 90.3894)</string>
+    <string name="save_dialog_address_hint">ঠিকানা বা বিবরণ (ঐচ্ছিক)</string>
+    <string name="cancel_btn">বাতিল</string>
+    <string name="save_btn">সংরক্ষণ করুন</string>
+    <string name="invalid_coords_error">অনুগ্রহ করে সঠিক সংখ্যাসূচক স্থানাঙ্ক (Coordinates) দিন</string>
+
+    <!-- TalkBack & Accessibility Descriptions -->
+    <string name="cd_app_settings">অ্যাপের সেটিংস খুলুন</string>
+    <string name="cd_journey_history">যাত্রার ইতিহাস ও রুট প্রিসেট দেখুন</string>
+    <string name="cd_readiness_status">জিপিএস ও ব্যাটারি অপ্টিমাইজেশন প্রস্তুতি স্ট্যাটাস</string>
+    <string name="cd_navigate_back">পূর্ববর্তী স্ক্রিনে ফিরে যান</string>
+    <string name="cd_pick_from_map">ম্যাপ ভিউ খুলে সরাসরি অবস্থান নির্বাচন করুন</string>
+    <string name="cd_clear_selected_destination">নির্বাচিত গন্তব্য বাতিল করুন</string>
+    <string name="cd_pause_journey">চলমান যাত্রা সাময়িক বিরতি দিন</string>
+    <string name="cd_resume_journey">যাত্রার ট্র্যাকিং পুনরায় চালু করুন</string>
+    <string name="cd_stop_journey">চলমান যাত্রা চূড়ান্তভাবে সমাপ্ত করুন</string>
+    <string name="cd_dismiss_alarm">গন্তব্যের অ্যালার্ম বন্ধ করুন</string>
+    <string name="cd_snooze_alarm">অ্যালার্ম কয়েক মিনিটের জন্য স্নুজ করুন</string>
+    <string name="cd_delete_history_item">এই যাত্রার রেকর্ড মুছে ফেলুন</string>
+    <string name="cd_clear_all_history">সমস্ত যাত্রার ইতিহাস পরিষ্কার করুন</string>
+    <string name="cd_add_route_preset">নতুন রুট প্রিসেট তৈরি করুন</string>
+    <string name="cd_start_preset_journey">এই প্রিসেট রুটে অবিলম্বে যাত্রা শুরু করুন</string>
+
+    <!-- TalkBack Live Region Accessibility Announcements -->
+    <string name="a11y_alarm_approaching_announcement">সতর্কতা! আপনি গন্তব্যের সন্নিকটে পৌঁছেছেন। প্রস্তুত হোন!</string>
+    <string name="a11y_gps_ready_announcement">জিপিএস সংযোগ সক্রিয় এবং অবস্থান নির্ভরযোগ্য।</string>
+    <string name="a11y_gps_disabled_announcement">জিপিএস নিষ্ক্রিয়। ডিভাইসের লোকেশন অন করুন।</string>
+    <string name="a11y_journey_started_announcement">যাত্রা শুরু হয়েছে। গন্তব্যের কাছাকাছি পৌঁছালে স্বয়ংক্রিয় অ্যালার্ম বাজবে।</string>
+    <string name="a11y_journey_stopped_announcement">যাত্রা বন্ধ করা হয়েছে।</string>
+
+    <!-- Distance Units for Screen Readers -->
+    <string name="unit_meter">মিটার</string>
+    <string name="unit_kilometer">কিলোমিটার</string>
+    <string name="unit_minute">মিনিট</string>
+
+    <!-- Onboarding Sliders -->
+    <string name="onboarding_title_1">রিয়েল টাইম লোকেশন ট্র্যাক করুন</string>
+    <string name="onboarding_desc_1">যাত্রাপথে আপনার নির্ভুল লাইভ অবস্থান জিপিএস দিয়ে সার্বক্ষণিক ট্র্যাক করা হবে, যাতে কোনো অবস্থাতেই আপনার কাঙ্ক্ষিত স্টপেজ মিস না হয়।</string>
+    <string name="onboarding_title_2">লোকেশন সেট করে ঘুমিয়ে পড়ুন</string>
+    <string name="onboarding_desc_2">ম্যাপে আপনার নামার স্থান ও অ্যালার্মের দূরত্ব সেট করে নিশ্চিন্তে ঘুমিয়ে থাকুন। বাকি সব দায়িত্ব ঘুম ভাঙ্গো নিখুঁতভাবে পালন করবে।</string>
+    <string name="onboarding_title_3">অ্যালার্ম পেয়ে জেগে উঠুন</string>
+    <string name="onboarding_desc_3">আপনার গন্তব্যের সীমানায় প্রবেশের সাথে সাথেই তীব্র শব্দের অ্যালার্ম ও ভাইব্রেশন বেজে আপনাকে সঠিক সময়ে জাগিয়ে তুলবে।</string>
+
+    <!-- Permissions Flow -->
+    <string name="perm_screen_title_1">অ্যাপটি সঠিকভাবে</string>
+    <string name="perm_screen_title_2">ব্যবহার করতে</string>
+    <string name="perm_screen_title_highlight">কিছু অনুমতি দরকার</string>
+    <string name="perm_screen_subtitle">আপনার নিরাপত্তা ও ভালো অভিজ্ঞতার জন্য নিচের অনুমতিগুলো প্রয়োজন।</string>
+    <string name="perm_item_location_title">লোকেশন (GPS)</string>
+    <string name="perm_item_location_desc">সঠিক অবস্থান শনাক্ত করতে</string>
+    <string name="perm_item_notification_title">নোটিফিকেশন</string>
+    <string name="perm_item_notification_desc">Journey চলার অবস্থা ও সতর্কতা</string>
+    <string name="perm_item_battery_title">ব্যাকগ্রাউন্ড ও ব্যাটারি</string>
+    <string name="perm_item_battery_desc">স্ক্রিন বন্ধ থাকলেও tracking চালাতে</string>
+    <string name="perm_item_sound_title">অ্যালার্ম সাউন্ড</string>
+    <string name="perm_item_sound_desc">শব্দ ও ভলিউম পরীক্ষা করুন</string>
+    <string name="perm_status_required">প্রয়োজনীয়</string>
+    <string name="perm_status_granted">অনুমোদিত ✓</string>
+    <string name="perm_status_battery_check">সেটিংস যাচাই</string>
+    <string name="perm_status_test_sound">পরীক্ষা করুন</string>
+    <string name="perm_status_sound_playing">সাউন্ড বাজছে…</string>
+    <string name="perm_btn_verify_all">সব সেটিংস যাচাই করুন</string>
+
+    <!-- New Home Design Strings -->
+    <string name="home_hero_title">নতুন যাত্রা শুরু করুন</string>
+    <string name="home_hero_subtitle">আপনার গন্তব্য নির্বাচন করে\nঘুমান নিশ্চিন্তে</string>
+    <string name="home_search_btn">গন্তব্য খুঁজুন</string>
+    <string name="home_quick_stops_title">দ্রুত গন্তব্যসমূহ</string>
+    <string name="home_see_all">সব দেখুন</string>
+    <string name="home_tab_home">হোম</string>
+    <string name="home_tab_saved">সেভড</string>
+    <string name="home_tab_history">ইতিহাস</string>
+    <string name="home_tab_settings">সেটিংস</string>
+</resources>
+
