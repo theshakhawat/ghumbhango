@@ -57,6 +57,6 @@
 ## 👨‍💻 ক্রেডিট ও কৃতজ্ঞতা (Credits & Contact):
 - **Developer:** Shakhawat Hossain
 - **Website:** [shakhawatdev.com](https://shakhawatdev.com)
-- **GitHub:** [@shakhawatdev](https://github.com/shakhawatdev)
+- **GitHub:** [@theshakhawat](https://github.com/theshakhawat)
 
 *আপনার মূল্যবান মতামত ও পরামর্শ দিয়ে আমাদের অ্যাপটি আরও উন্নত করতে সাহায্য করুন!* ❤️
